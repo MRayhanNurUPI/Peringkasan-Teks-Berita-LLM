@@ -8,7 +8,7 @@ Proyek ini bertujuan untuk mengeksplorasi dan menerapkan model Large Language Mo
 - google/mt5-small (https://huggingface.co/google/mt5-small)
 
 ## Dataset
-Dataset asli (sebelum praproses) yang digunakan untuk fine-tuning model adalah IndoSUM (folder train) dan dapat ditemukan di (https://github.com/kata-ai/indosum). Untuk dataset yang ada di repository ini merupakan hasil sesudah praproses.
+Dataset yang digunakan untuk fine-tuning model adalah IndoSUM (folder train) dan dapat ditemukan di (https://github.com/kata-ai/indosum).
 
 ## Skenario Proyek
 1) Membandingkan hasil peringkasan teks berita dengan model LLM IndoNanoT5-base sebelum dan sesudah fine-tuning.
