@@ -1,5 +1,8 @@
 # Peringkasan Teks Berita Otomatis Menggunakan Model LLM (TUGAS FINAL NLP)
 
+## Slides Presentasi
+Slides presentasi penjelasan proyek bisa dilihat [di sini](https://www.canva.com/design/DAGZ_A1Em9A/tfMGhflHMdXjn9mIA2HBjQ/edit?utm_content=DAGZ_A1Em9A&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 ## Deskripsi
 Proyek ini bertujuan untuk mengeksplorasi dan menerapkan model Large Language Model (LLM) untuk melakukan peringkasan otomatis pada teks berita berbahasa Indonesia serta Fine Tuning model LLM sesuai dengan dataset tertentu.
 
